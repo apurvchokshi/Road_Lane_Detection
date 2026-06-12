@@ -6,6 +6,11 @@ This project is a Road Lane Detection web application built using classical imag
 
 🚀 **Hugging Face Space:** https://apurv20-road-lane-detection.hf.space
 
+[![Hugging Face Spaces](https://img.shields.io/badge/Hugging%20Face-Spaces-yellow?logo=huggingface)](https://huggingface.co/spaces/apurv20/Road_Lane_Detection)
+
+- **Project Page:** [Hugging Face Space](https://huggingface.co/spaces/apurv20/Road_Lane_Detection)
+- **Direct App:** [Launch App](https://apurv20-road-lane-detection.hf.space/)
+
 ## Project Overview
 
 The goal of this project is to detect lane boundaries from road images using an image analysis pipeline. Instead of using a deep learning model, this project focuses on traditional computer vision methods to understand how lane features can be extracted step by step from an image.
